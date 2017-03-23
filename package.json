@@ -1,7 +1,7 @@
 {
   "name": "uchars",
-  "version": "1.0.0",
-  "description": "split string to unicode chars correctly",
+  "version": "1.0.1",
+  "description": "split javascript string to unicode chars correctly",
   "main": "index.js",
   "scripts": {
     "test": "mocha"

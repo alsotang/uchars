@@ -2,7 +2,7 @@
 
 ## description
 
-split string to unicode chars correctly
+split javascript string to unicode chars correctly
 
 ## install
 
