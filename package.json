@@ -1,0 +1,28 @@
+{
+  "name": "uchars",
+  "version": "1.0.0",
+  "description": "split string to unicode chars correctly",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alsotang/uchars.git"
+  },
+  "keywords": [
+    "unicode"
+  ],
+  "author": "alsotang <alsotang@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alsotang/uchars/issues"
+  },
+  "homepage": "https://github.com/alsotang/uchars#readme",
+  "dependencies": {
+    "string.prototype.codepointat": "^0.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
