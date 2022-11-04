@@ -1,6 +1,6 @@
 {
   "name": "uchars",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "split javascript string to unicode chars correctly",
   "main": "index.js",
   "scripts": {
